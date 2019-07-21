@@ -19,3 +19,4 @@ https://weblabo.oscasierra.net/python/opencv-videocapture-camera.html
 (コピーした部分：カメラから動画を取得して表示するサンプル)  
 
 実行した結果
+https://github.com/lutzack/image-mean/blob/master/1563631254b6BaCvvvaE6Amfo1563631141.gif
